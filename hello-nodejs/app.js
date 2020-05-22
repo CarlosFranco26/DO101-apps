@@ -1,2 +1,3 @@
-console.log("Hello World!\n");
+// Replace "hello world" with "Hello Mars"
+console.log("Hello Mars!\n");
 
